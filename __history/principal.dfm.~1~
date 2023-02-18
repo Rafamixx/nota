@@ -17,17 +17,9 @@ object Form1: TForm1
     Left = 104
     Top = 216
     Width = 513
-    Height = 273
-    Color = clLime
+    Height = 321
+    Color = clFuchsia
     TabOrder = 0
     Text = 'teste'
-  end
-  object Button1: TButton
-    Left = 320
-    Top = 336
-    Width = 75
-    Height = 25
-    Caption = 'Button1'
-    TabOrder = 1
   end
 end
